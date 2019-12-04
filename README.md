@@ -1,3 +1,6 @@
+![alt text](https://github.com/JeanMILPIED/RServer-on-AWS/blob/master/RServer_img.png) 
+![alt text](https://github.com/JeanMILPIED/RServer-on-AWS/blob/master/RServer_img.png) 
+
 # AWS_Jupyter_Notebook
 instructions to install jupyter notebook on an instance and manage different virtual environments
 
