@@ -1,4 +1,4 @@
-![alt text](https://github.com/JeanMILPIED/RServer-on-AWS/blob/master/RServer_img.png) 
+![alt text](https://github.com/JeanMILPIED/AWS_Jupyter_Notebook/blob/master/AWS_img.png) 
 ![alt text](https://github.com/JeanMILPIED/RServer-on-AWS/blob/master/RServer_img.png) 
 
 # AWS_Jupyter_Notebook
